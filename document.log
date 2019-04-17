@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7000 64-bit) (preloaded format=xelatex 2019.4.15)  17 APR 2019 17:21
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7000 64-bit) (preloaded format=xelatex 2019.4.15)  17 APR 2019 17:24
 entering extended mode
 **./document.tex
 (document.tex
@@ -817,19 +817,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 134--136
  []
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 149.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 149.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
  (document.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 149.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 149.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 151.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 2F965899657AFF88BD12EF626495ACA4.
+(rerunfilecheck)             Checksum: 3050D8C07299C951BC32EE0BD42334A1.
  ) 
 Here is how much of TeX's memory you used:
  20798 strings out of 427748
  353126 string characters out of 3146066
- 530853 words of memory out of 3000000
+ 530973 words of memory out of 3000000
  24692 multiletter control sequences out of 15000+200000
  575198 words of font info for 48 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
