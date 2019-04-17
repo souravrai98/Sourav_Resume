@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7000 64-bit) (preloaded format=xelatex 2019.4.15)  17 APR 2019 16:50
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7000 64-bit) (preloaded format=xelatex 2019.4.15)  17 APR 2019 16:57
 entering extended mode
 **./document.tex
 (document.tex
@@ -777,19 +777,33 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 ) [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 121.
  (document.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 110.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 121.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 121.
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: A8BC875BB3DBB6A4347CDA5611C3488C.
+(rerunfilecheck)             Checksum: 9EEF4BE04995686681D34B88BC32586B.
  ) 
 Here is how much of TeX's memory you used:
  20793 strings out of 427748
  353033 string characters out of 3146066
- 530667 words of memory out of 3000000
+ 530663 words of memory out of 3000000
  24688 multiletter control sequences out of 15000+200000
  569660 words of font info for 46 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
